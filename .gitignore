@@ -1,0 +1,9 @@
+# 파일
+*.avi
+*.bat
+*.ps1
+
+# 폴더
+venv/
+.vscode/
+__pycache__/
