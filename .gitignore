@@ -1,9 +1,10 @@
 # 파일
+main_print_v1.ipynb
 *.avi
 *.bat
 *.ps1
 
+
 # 폴더
 venv/
 .vscode/
-__pycache__/
